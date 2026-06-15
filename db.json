@@ -144,5 +144,6 @@
     "trailerId": "Ljk6tGZ1l3A",
     "description": "A timeless love story between an army officer and a mysterious woman unfolds through letters."
   }
-]
+],
+  "$schema": "./node_modules/json-server/schema.json"
 }
